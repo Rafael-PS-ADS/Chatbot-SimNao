@@ -2,7 +2,7 @@
 
 Um chatbot simples que responde às suas perguntas com "SIM" ou "NÃO" acompanhado de um GIF divertido.
 
-[Preview do Chatbot]:(https://rafael-ps-ads.github.io/Chatbot-SimNao/)
+- Preview do Chatbot: https://rafael-ps-ads.github.io/Chatbot-SimNao/
 
 ## ✨ Funcionalidades
 
